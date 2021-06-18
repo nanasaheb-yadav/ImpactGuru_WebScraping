@@ -1,6 +1,6 @@
 ### ImpactGuru Data Scrapping 
 ###### _Author: Nanasaheb Yadav, <nanayadav33@gmail.com>_
-####### _08/06/2021_
+###### _08/06/2021_
 
 This code is to scrap all fundraiser details using selenium web driver.
 
@@ -14,3 +14,5 @@ folder named 'Summary_Chart.html'`
 
 `Chrome Driver: Update chrome driver as per your chrome browser version.`
 
+<i><b>Note:</b> This is implemented while attending interview for ImpactGuru.
+    As per HR request it's implemented and shared with them.</i>
